@@ -4,7 +4,7 @@
 
 ## :rocket: Sobre a página
 
-um gerador RGB, colocando a data e Horário atual, utilizando **HTML, JS, CSS**.
+Um gerador RGB, colocando a data e Horário atual, utilizando **HTML, JS, CSS**.
 
 ### Tela da aplicação
 
