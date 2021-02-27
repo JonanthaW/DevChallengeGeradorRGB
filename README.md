@@ -4,6 +4,8 @@
 
 ## :rocket: Sobre a página
 
+Desafio criado por  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+
 Um gerador RGB, colocando a data e Horário atual, utilizando **HTML, JS, CSS**.
 
 ### Tela da aplicação
