@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
+  background-color: #373c44;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+section h3 {
+  color: white;
+  font-size: 3vw;
+}
+
+.hourContainer {
+  background-color: #44474e;
+  padding: 1vw;
+  color: white;
+  font-size: 1.2vw;
+  margin: 2vw 0vw 2vw 0vw;
+  display: flex;
+  align-items: center;
+}
+
+.hourContainer i {
+  padding-right: 1vw;
+}
+
+.RGBContainer {
+  background-color: #44474e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rangeContent {
+  padding: 2vw;
+}
+
+.rangeContent input[TYPE=range] {
+  -webkit-appearance: none;
+  margin: 1vw;
+  padding: 1vw;
+  border-radius: 5px;
+  width: 10vw;
+}
+.rangeContent input[type=range]:focus {
+  outline: none;
+}
+
+.rangeContent input[type="range"]::-moz-range-thumb {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: #489fb8;
+  border: none;
+  height: .5vw;
+  width: 4%;
+  padding: 4%;
+}
+
+.rangeContent input[TYPE="RANGE"]:nth-child(1) {
+  background-color: #ff817e;
+}
+.rangeContent input[TYPE="RANGE"]:nth-child(2) {
+  background-color: #3fb73d;
+}
+.rangeContent input[TYPE="RANGE"]:nth-child(3) {
+  background-color: #515aab;
+}
+
+.rangeContent input[type=range]::-moz-range-track {
+  cursor: pointer;
+  background-color: white;
+  border-radius: 5px;
+}
+
+input[type="range"]::-moz-range-progress {
+  background-color: #489fb8;
+}
+
+.RGBContainer .circle {
+  background-color: rgba(0,0,0);
+  border-radius: 50%;
+  height: 10vh;
+  width: 20%;
+  padding: 20%;
+}
+
+.RGBContainer h4 {
+  font-size: 1.1vw;
+  color: white;
+  padding: 2vw;
+}
