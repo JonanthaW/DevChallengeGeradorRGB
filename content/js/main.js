@@ -10,7 +10,7 @@ var getRGBA = () => {
     document.querySelector(".RGBContainer h4").innerText = `rgba(${red}, ${green}, ${blue})`;
   }
 
-  sendColor(255,255,255) // Send initially to White
+  sendColor(128,128,128) // Send initially to White
 
   for (var i = 0; i < 3; i++) {
     document.querySelector(`.rangeContent input[TYPE=range]:nth-child(${i+1})`).addEventListener("input", ()=>{

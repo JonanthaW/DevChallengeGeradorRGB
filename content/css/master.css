@@ -99,3 +99,27 @@ input[type="range"]::-moz-range-progress {
   color: white;
   padding: 2vw;
 }
+
+@media only screen and (max-width: 768px) {
+  section h3 {
+    font-size: 9vw;
+  }
+
+  .hourContainer {
+    padding: 2vw;
+    font-size: 3vw;
+  }
+
+  .rangeContent input[TYPE=range] {
+    -webkit-appearance: none;
+    margin: 2vw;
+    padding: 2vw;
+    width: 20vw;
+  }
+
+  .RGBContainer h4 {
+    font-size: 3vw;
+    color: white;
+    padding: 2vw;
+  }
+}
