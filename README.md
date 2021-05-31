@@ -6,9 +6,14 @@
 
 Desafio criado por  <a href="https://github.com/Lorenalgm">Lorena</a> :)
 
-Um gerador RGB, colocando a data e Horário atual, utilizando **HTML, JS, CSS**.
+Um gerador RGB com display para a data e Horário atual.
 
-### Tela da aplicação
+#### :wrench: Techs utilizadas:
+* _HTML_
+* _JS_
+* _CSS_
+
+### :bulb: Tela da aplicação
 
 ![image](https://github.com/JonanthaW/Projeto-DevChallengeGeradorRGB/blob/main/assets/example1.jpg)
 ![image](https://github.com/JonanthaW/Projeto-DevChallengeGeradorRGB/blob/main/assets/example2.jpg)
