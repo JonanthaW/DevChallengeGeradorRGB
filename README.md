@@ -15,5 +15,5 @@ Um gerador RGB com display para a data e Horário atual.
 
 ### :bulb: Tela da aplicação
 
-![image](https://github.com/JonanthaW/Projeto-DevChallengeGeradorRGB/blob/main/assets/example1.jpg)
-![image](https://github.com/JonanthaW/Projeto-DevChallengeGeradorRGB/blob/main/assets/example2.jpg)
+![image](https://github.com/JonanthaW/DevChallengeGeradorRGB/blob/main/assets/example1.jpg)
+![image](https://github.com/JonanthaW/DevChallengeGeradorRGB/blob/main/assets/example2.jpg)
